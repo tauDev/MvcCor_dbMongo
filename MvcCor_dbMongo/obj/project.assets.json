@@ -13662,11 +13662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project2018\\MvcCor_dbMongo\\MvcCor_dbMongo\\MvcCor_dbMongo.csproj",
+      "projectUniqueName": "D:\\project2018\\MvcCor_dbMongo\\MvcCor_dbMongo\\MvcCor_dbMongo.csproj",
       "projectName": "MvcCor_dbMongo",
-      "projectPath": "D:\\Project2018\\MvcCor_dbMongo\\MvcCor_dbMongo\\MvcCor_dbMongo.csproj",
+      "projectPath": "D:\\project2018\\MvcCor_dbMongo\\MvcCor_dbMongo\\MvcCor_dbMongo.csproj",
       "packagesPath": "C:\\Users\\parinya\\.nuget\\packages\\",
-      "outputPath": "D:\\Project2018\\MvcCor_dbMongo\\MvcCor_dbMongo\\obj\\",
+      "outputPath": "D:\\project2018\\MvcCor_dbMongo\\MvcCor_dbMongo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

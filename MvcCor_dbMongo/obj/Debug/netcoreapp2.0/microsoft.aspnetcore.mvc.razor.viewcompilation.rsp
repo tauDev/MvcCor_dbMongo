@@ -1,0 +1,16 @@
+D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=MvcCor_dbMongo
+--content-root=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\About.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\Contact.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\Create.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\Delete.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\Details.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\Edit.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Home\Index.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Shared\Error.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Shared\_Layout.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\_ViewImports.cshtml
+--file=D:\project2018\MvcCor_dbMongo\MvcCor_dbMongo\Views\_ViewStart.cshtml

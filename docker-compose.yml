@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  mvccor_dbmongo:
+    image: mvccordbmongo
+    build:
+      context: .
+      dockerfile: MvcCor_dbMongo/Dockerfile

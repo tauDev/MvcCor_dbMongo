@@ -1,0 +1,1 @@
+D:\Project2018\MvcCor_dbMongo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

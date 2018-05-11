@@ -8,3 +8,4 @@ D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Debug\netcoreapp2.0\MvcCor_dbMo
 D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Debug\netcoreapp2.0\MvcCor_dbMongo.AssemblyInfo.cs
 D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Debug\netcoreapp2.0\MvcCor_dbMongo.dll
 D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Debug\netcoreapp2.0\MvcCor_dbMongo.pdb
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Debug\netcoreapp2.0\MvcCor_dbMongo.csprojResolveAssemblyReference.cache

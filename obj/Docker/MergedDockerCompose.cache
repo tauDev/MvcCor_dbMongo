@@ -1,0 +1,11 @@
+services:
+  mvccor_dbmongo:
+    build:
+      context: D:\Project2018\MvcCor_dbMongo
+      dockerfile: MvcCor_dbMongo/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: mvccordbmongo
+    ports:
+    - 8081/tcp
+version: '3.0'

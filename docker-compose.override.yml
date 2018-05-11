@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  mvccor_dbmongo:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8081"

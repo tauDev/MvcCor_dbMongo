@@ -1,0 +1,11 @@
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\bin\Release\netcoreapp2.0\MvcCor_dbMongo.deps.json
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\bin\Release\netcoreapp2.0\MvcCor_dbMongo.runtimeconfig.json
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\bin\Release\netcoreapp2.0\MvcCor_dbMongo.runtimeconfig.dev.json
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\bin\Release\netcoreapp2.0\MvcCor_dbMongo.dll
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\bin\Release\netcoreapp2.0\MvcCor_dbMongo.pdb
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Release\netcoreapp2.0\MvcCor_dbMongo.csprojResolveAssemblyReference.cache
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Release\netcoreapp2.0\MvcCor_dbMongo.csproj.CoreCompileInputs.cache
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Release\netcoreapp2.0\MvcCor_dbMongo.AssemblyInfoInputs.cache
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Release\netcoreapp2.0\MvcCor_dbMongo.AssemblyInfo.cs
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Release\netcoreapp2.0\MvcCor_dbMongo.dll
+D:\Project2018\MvcCor_dbMongo\MvcCor_dbMongo\obj\Release\netcoreapp2.0\MvcCor_dbMongo.pdb

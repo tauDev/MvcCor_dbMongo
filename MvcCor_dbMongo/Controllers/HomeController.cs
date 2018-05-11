@@ -15,7 +15,7 @@ namespace MvcCor_dbMongo.Controllers
         private IMongoDatabase mongDB;
         public IMongoDatabase GetMongoDatabase()
         {
-            var mongClients = new MongoClient("mongodb://localhost:27017");
+            var mongClients = new MongoClient("mongodb://192.168.0.124:27017");
             return mongClients.GetDatabase("local");
         }
         public IActionResult Index()
